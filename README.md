@@ -6,7 +6,8 @@ After completing this course, you will have built your very own call-in conferen
 
 You can use this to connect with friends you've been missing! ☎️
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3jKZIJnPNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Connect your classmates together with this educational video](https://img.youtube.com/vi/I3jKZIJnPNc/0.jpg)](https://www.youtube.com/watch?v=I3jKZIJnPNc)
 
 We're so glad you're spending some of your time learning to code, and we can't wait to see what you build!
 
