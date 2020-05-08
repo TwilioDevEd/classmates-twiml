@@ -10,9 +10,11 @@ We're so glad you're spending some of your time learning to code, and we can't w
 
 [@craigsdennis](https://twitter.com/craigsdennis)
 
+[Teaching Guide for teachers](./teaching-guide.md)
+
 ## Sign up for Twilio
 
-Sign up for your free trial with Twilio. If you use this link with promo code to sign up, you'll get an extra **$15** 💰in Trial credit. You deserve it.
+Sign up for your free trial with Twilio. If you use this link with promo code to sign up, you'll get double the 💰 Free Trial credit. You deserve it.
 
 [https://www.twilio.com/try-twilio?promo=CLASSMATES](https://www.twilio.com/try-twilio?promo=CLASSMATES)
 
