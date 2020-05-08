@@ -1,12 +1,15 @@
 # Classmates Video - Teaching Guide
 
-This is a hands-on coding project. Upon completion of the assignment, the student will have a working telephone application and personal phone number that can be shared to provide connectivity with their friends/families/fellow classmates.
+**Estimated time**: 30-45 minutes
+**Format**: Follow along video with breaks to self assess. Solution revealed in video.
+
+This is a hands-on coding project. Upon completion of the assignment, the student will have a working telephone application and a personal phone number that can be shared to provide connectivity with their friends/families/fellow classmates.
 
 ## Prerequisites
 
-Student should have a basic grasp of reading. The intended age range is 6-14 years. (Grownups are also very much welcome 💪)
+Student should have a basic grasp of reading. The intended age range is 6-14 years. (All grownups are also very much welcome 💪)
 
-Student will need an Internet connection and a web browser. We will be creating a free trial with Twilio. Using this [free trial promo code]() will double the amount of free credit.
+Student will need an Internet connection and a web browser. We will be creating a free trial with Twilio. Using this [free trial promo](https://www.twilio.com/promo/classmates) will double the amount of free credit you receive on signing up.
 
 Previous programming experience is **not** required for the student nor the instructor.
 
