@@ -1,4 +1,4 @@
-# Classmates - Teacher's Guide
+# Classmates Video - Teaching Guide
 
 This is a hands-on coding project. Upon completion of the assignment, the student will have a working telephone application and personal phone number that can be shared to provide connectivity with their friends/families/fellow classmates.
 
