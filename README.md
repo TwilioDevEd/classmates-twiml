@@ -10,7 +10,7 @@ We're so glad you're spending some of your time learning to code, and we can't w
 
 [@craigsdennis](https://twitter.com/craigsdennis)
 
-[Teaching Guide for teachers](./teaching-guide.md)
+[Teaching Guide for teachers](teaching-guide.md)
 
 ## Sign up for Twilio
 
