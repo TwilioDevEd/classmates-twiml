@@ -26,7 +26,7 @@ After watching this video, the student will be able to:
 
 The video reveals the correct answers, but in case you want access to the various coding prompts:
 
-*8:35* - [Say code](/TwilioDevEd/classmates-twiml#say-anything) (Make sure you have an open and closing tag, along with the proper casing!)
+*8:35* - [Say code](README.md#say-anything) (Make sure you have an open and closing tag, along with the proper casing!)
 
 *11:00* - Replace the initial saying with `Connecting to classmates` within the `<Say>` tag.
 
@@ -46,7 +46,7 @@ Next we add the conference name.
 <Dial><Conference>Classmates</Conference></Dial>
 ```
 
-[Final solution](/TwilioDevEd/classmates-twiml#dial-a-conference)
+[Final solution](README.md#dial-a-conference)
 
 ## Discussion Prompts
 
